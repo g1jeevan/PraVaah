@@ -50,14 +50,15 @@
 
                 <ImageButton
                     android:id="@+id/Contact"
+                    style="@android:style/Widget.Holo.Light.ImageButton"
                     android:layout_width="49dp"
                     android:layout_height="38dp"
-                    android:layout_marginBottom="8dp"
-                    android:layout_marginEnd="8dp"
-                    android:layout_marginLeft="8dp"
-                    android:layout_marginRight="8dp"
                     android:layout_marginStart="8dp"
+                    android:layout_marginLeft="8dp"
                     android:layout_marginTop="8dp"
+                    android:layout_marginEnd="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:onClick="contactPickerOnClick"
                     app:layout_constraintBottom_toTopOf="@+id/OFF"
@@ -76,13 +77,14 @@
 
                 <Button
                     android:id="@+id/ON"
+                    style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginBottom="8dp"
 
-                    android:layout_marginEnd="36dp"
                     android:layout_marginLeft="52dp"
                     android:layout_marginTop="8dp"
+                    android:layout_marginEnd="36dp"
+                    android:layout_marginBottom="8dp"
                     android:layout_weight="1"
                     android:text="ON"
                     app:layout_constraintBottom_toBottomOf="parent"
@@ -93,11 +95,12 @@
 
                 <Button
                     android:id="@+id/OFF"
+                    style="@style/Widget.AppCompat.Button.Borderless"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginBottom="16dp"
-                    android:layout_marginEnd="84dp"
                     android:layout_marginTop="8dp"
+                    android:layout_marginEnd="84dp"
+                    android:layout_marginBottom="16dp"
                     android:layout_weight="1"
                     android:text="OFF"
                     app:layout_constraintBottom_toBottomOf="parent"
