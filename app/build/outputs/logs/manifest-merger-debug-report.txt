@@ -1,0 +1,188 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1f38f1f635d254473bc50dc0ad7ca41d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9701ea9eb95473058a4b4a20b4ab3c72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7cd0b681e0e9c1fde2e77119b62846a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d9743f7ff43a91ae84221bcd49a253b8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c0982e29b99d3a82982f59d5acfece30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6ec51269556fd02743251d82ce501295\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\edb0215c8e2743a4d251c99dc60532b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d79bd4b81a6517787f77c372ef6e1036\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\43c286d795f2df7bc66d3d7600608dc7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1b9dd3c19b37fe62c48e05fdd5a0d3bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\80dfe93f4014c40e8d8a173a58ec12aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\70fe74bc0ab35d58c1c609ee6c345145\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8fdeab8d041014bc06e87706d2d9152b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\15729d279153ce084007bc7584f0f5d9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\10186fa1f1761ee9e49f43af8cbbf8b2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5feda6b3f590dc589e8044f36a4ef5bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c89505a544717a484cb55984e7e9b57\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:3:5-26
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:5:5-69
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:5:22-66
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:6:22-63
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:7:22-67
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:11:22-73
+application
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:13:5-54:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7cd0b681e0e9c1fde2e77119b62846a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7cd0b681e0e9c1fde2e77119b62846a\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:19:9-40
+activity#kwa.pravaah.Home
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:21:13-33
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:27:27-74
+activity#kwa.pravaah.AddAlarm
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:30:9-33:59
+	android:label
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:32:13-61
+	android:theme
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:31:13-37
+activity#kwa.pravaah.CancelAlarm
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:34:9-37:59
+	android:label
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:36:13-64
+	android:theme
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:35:13-40
+receiver#kwa.pravaah.AlarmReceiver
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:39:9-42:39
+	android:enabled
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:40:13-42
+receiver#kwa.pravaah.SMSListener
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:43:9-49:20
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:44:13-40
+intent-filter#action:name:android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:46:13-48:29
+action#android.provider.Telephony.SMS_RECEIVED
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:47:17-82
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:47:25-79
+receiver#kwa.pravaah.MessageReceiver
+ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:50:9-52:16
+	android:name
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml:51:13-44
+uses-sdk
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1f38f1f635d254473bc50dc0ad7ca41d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1f38f1f635d254473bc50dc0ad7ca41d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9701ea9eb95473058a4b4a20b4ab3c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9701ea9eb95473058a4b4a20b4ab3c72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7cd0b681e0e9c1fde2e77119b62846a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\f7cd0b681e0e9c1fde2e77119b62846a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d9743f7ff43a91ae84221bcd49a253b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\d9743f7ff43a91ae84221bcd49a253b8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c0982e29b99d3a82982f59d5acfece30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c0982e29b99d3a82982f59d5acfece30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6ec51269556fd02743251d82ce501295\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6ec51269556fd02743251d82ce501295\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\edb0215c8e2743a4d251c99dc60532b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\edb0215c8e2743a4d251c99dc60532b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d79bd4b81a6517787f77c372ef6e1036\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d79bd4b81a6517787f77c372ef6e1036\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\43c286d795f2df7bc66d3d7600608dc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\43c286d795f2df7bc66d3d7600608dc7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1b9dd3c19b37fe62c48e05fdd5a0d3bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\1b9dd3c19b37fe62c48e05fdd5a0d3bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\80dfe93f4014c40e8d8a173a58ec12aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\80dfe93f4014c40e8d8a173a58ec12aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\70fe74bc0ab35d58c1c609ee6c345145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\70fe74bc0ab35d58c1c609ee6c345145\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8fdeab8d041014bc06e87706d2d9152b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8fdeab8d041014bc06e87706d2d9152b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\15729d279153ce084007bc7584f0f5d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\15729d279153ce084007bc7584f0f5d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\10186fa1f1761ee9e49f43af8cbbf8b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\10186fa1f1761ee9e49f43af8cbbf8b2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5feda6b3f590dc589e8044f36a4ef5bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5feda6b3f590dc589e8044f36a4ef5bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c89505a544717a484cb55984e7e9b57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jeevan Jacob\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c89505a544717a484cb55984e7e9b57\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jeevan Jacob\Desktop\KWA\Pravah_master_new-Latest-master\app\src\main\AndroidManifest.xml
