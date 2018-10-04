@@ -203,7 +203,7 @@ public class DbManager extends SQLiteOpenHelper {
 
 
         SQLiteDatabase db = this.getReadableDatabase();
-        Cursor cursor = db.rawQuery("SELECT "+ ID +","+NAME+" FROM " + TABLE_SMS, null);
+        Cursor cursor = db.rawQuery("SELECT "+NAME+" FROM " + TABLE_SMS, null);
 
 
         // looping through all rows and adding to list
